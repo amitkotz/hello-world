@@ -1,2 +1,2 @@
 # hello-world
-Random first project
+This is my first project in GIT - AK
